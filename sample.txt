@@ -1,0 +1,7 @@
+This txt file show how to add a code file to git.
+
+first install a git version controller
+
+And write a code what we want and check cmd to git can install properly using thia command (git --version)
+
+
